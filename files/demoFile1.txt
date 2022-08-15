@@ -1,0 +1,2 @@
+Hello the content of this file has been written using ofstream.
+yess
